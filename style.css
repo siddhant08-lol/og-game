@@ -1,0 +1,15 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+    
+}
+
+#board {
+    background-color:#7ec8e3;
+                 background-image:url(image/Flappy\ bird\ city\ background_\ Makes\ a\ nice\ wallpaper_.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;  
+             
+
+}
