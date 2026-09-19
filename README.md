@@ -9,7 +9,7 @@ This project is a recreation of the classic Flappy Bird game using html css and 
 
 
 
-#ss of the game:
+# ss of the game:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/60256443-f619-46fa-bced-b508b41d0d2a" />
 
 # technology used:
@@ -31,6 +31,7 @@ Make sure all html css and  js and image files remain in their correct folders.
 
 
 # playing the game
+
 Open the project folder.
 Open the index.html file.
 Run it using a web browser or Live Server in VS Code
@@ -39,14 +40,18 @@ Try to get the highest score without hitting the pipes or ground.
 
 
 
-# how to play: you can use space bar to jump and too restart the game u can also use space bar.
+# how to play:
+
+you can use space bar to jump and too restart the game u can also use space bar.
 
 
-# help and note: i am a beginner and there are issue with the game the pipe maybe get glitch if i does just restart the game and the pipe imgage has invisble barrier so the game 
+# help and note:
+
+ i am a beginner and there are issue with the game the pipe maybe get glitch if i does just restart the game and the pipe imgage has invisble barrier so the game 
 might get over without touching the pipes so u maybe be carefull while paying the game get over get get too close to the pipe.
 
 
 
-# link of the game
+# link of the game:
 https://siddhant08-lol.github.io/og-game/
 
