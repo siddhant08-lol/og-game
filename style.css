@@ -9,7 +9,11 @@ body{
                  background-image:url(image/Flappy\ bird\ city\ background_\ Makes\ a\ nice\ wallpaper_.jpg);
     background-size:contain;
     background-repeat: no-repeat;
-    background-position: center;  
+    background-position: center; 
+    height:auto;
+    width:min(360px, 56.25vh);
+   
+    margin:0; 
              
 
 }
